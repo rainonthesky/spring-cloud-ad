@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imooc-ad-service:war">
+    <output-path>$PROJECT_DIR$/imooc-ad-service/target</output-path>
+    <root id="archive" name="imooc-ad-service.war">
+      <element id="artifact" artifact-name="imooc-ad-service:war exploded" />
+    </root>
+  </artifact>
+</component>
