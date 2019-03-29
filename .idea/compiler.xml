@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ad-common" />
         <module name="ad-gateway" />
+        <module name="ad-sponsor" />
         <module name="adeure-ka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ad-common" target="1.7" />
       <module name="ad-gateway" target="1.8" />
+      <module name="ad-sponsor" target="1.7" />
       <module name="adeure-ka" target="1.8" />
       <module name="imooc-ad-service" target="1.7" />
       <module name="imooc-ad-spring-clould" target="1.8" />
@@ -23,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ad-common" options="-parameters" />
       <module name="ad-gateway" options="-parameters" />
+      <module name="ad-sponsor" options="-parameters" />
       <module name="adeure-ka" options="-parameters" />
       <module name="imooc-ad-service" options="-parameters" />
       <module name="imooc-ad-spring-clould" options="-parameters" />

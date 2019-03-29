@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/imooc-ad-service/ad-common/ad-common.iml" filepath="$PROJECT_DIR$/imooc-ad-service/ad-common/ad-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ad-gateway/ad-gateway.iml" filepath="$PROJECT_DIR$/ad-gateway/ad-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-ad-service/ad-sponsor/ad-sponsor.iml" filepath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/ad-sponsor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ad-eureka/adeure-ka.iml" filepath="$PROJECT_DIR$/ad-eureka/adeure-ka.iml" />
       <module fileurl="file://$PROJECT_DIR$/imooc-ad-service/imooc-ad-service.iml" filepath="$PROJECT_DIR$/imooc-ad-service/imooc-ad-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/imooc-ad-spring-clould.iml" filepath="$PROJECT_DIR$/imooc-ad-spring-clould.iml" />
